@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- HDPI -->
+    <color name="background_bg">#ff0000</color>
+    <color name="blue_color">#168FC0</color>
+    <color name="white_color">#ffffff</color>
+    <!-- Blue -->
+    <color name="test">#A9F5A9</color>
+
+</resources>
